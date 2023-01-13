@@ -1,8 +1,6 @@
-# RubyProjects-CPara
+# Ruby Projects
  
 The following projects were assignments given during the Ruby/OOP section of my Computing Paradigms course.
-
-# Projects
 
 ## P1: Date Difference Calculator
 This project had us writing a program that will calculate the number of days between 2 dates.
