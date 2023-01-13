@@ -5,7 +5,7 @@ The following projects were assignments given during the Ruby/OOP section of my 
 ## P1: Date Difference Calculator
 This project had us writing a program that will calculate the number of days between 2 dates.
 
-## P2: Consecutive Difference Calculator
+## P2: Consecutive Prime Number Calculator
 This project had us creating a program that would perform different things on consecutive prime number pairs. 
 Actions that the program needed to perform included:
 - print all consecutive primes in pairs like this [2 3][3 5][5 7]...
